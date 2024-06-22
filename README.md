@@ -25,3 +25,14 @@ npm run dev
 - Vite + React.js
 - Redux.js
 - Tailwind CSS
+
+#### Pull project with
+`git clone git@github.com:letsbuild-with-rajesh/sports-day-events-assignment-apr2024.git`
+
+<details><summary>Click to show/hide a demo gif</summary>
+<p>
+
+![Loading demo gif ...](public/demo.gif?raw=true)
+
+</p>
+</details>
